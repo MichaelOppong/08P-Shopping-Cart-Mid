@@ -12,6 +12,6 @@ $(".newItem").click(function(){
     itemNames.push(name);
 });
 $(".purchase").click(function(){
-   alert("Thanks for purchasing "+itemNames[0] +" and all your other items!");
+   alert("Thanks for purchasing "+itemNames[0] +" and all of your other items!");
  
 });
