@@ -1,0 +1,25 @@
+.item{
+    display:flex;
+    justify-content:space-around;
+}
+.storeName{
+        text-align:center;
+        font-size:30px;
+}
+.cartItem{
+    width:100px;
+    height:100px;
+}
+.inputs{
+ display:flex;
+ justify-content:space-around;
+ margin:50px;
+}
+.buttonDiv{
+    margin:50px;
+    text-align:center;
+}
+
+.cart{
+    border:5px solid black;
+}
